@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Филворды</string>
+    <string name="l1">A</string>
+    <string name="l2">Б</string>
+    <string name="l3">В</string>
+    <string name="l4">Г</string>
+    <string name="l6">Е</string>
+    <string name="l7">Ё</string>
+    <string name="l8">Ж</string>
+    <string name="l9">З</string>
+    <string name="l10">И</string>
+    <string name="l11">Й</string>
+    <string name="l12">К</string>
+    <string name="l13">Л</string>
+    <string name="l14">М</string>
+    <string name="l15">Н</string>
+    <string name="l16">О</string>
+    <string name="l17">П</string>
+    <string name="l18">Р</string>
+    <string name="l19">С</string>
+    <string name="l20">Т</string>
+    <string name="l21">У</string>
+    <string name="l22">Ф</string>
+    <string name="f">Ф</string>
+    <string name="i">И</string>
+    <string name="l">Л</string>
+    <string name="w">В</string>
+    <string name="o">О</string>
+    <string name="r">Р</string>
+    <string name="d">Д</string>
+    <string name="s">Ы</string>
+    <string name="l23">Х</string>
+    <string name="l24">Ц</string>
+    <string name="l26">Ш</string>
+    <string name="l27">Ш</string>
+    <string name="l30">Ь</string>
+    <string name="l31">Э</string>
+    <string name="l32">Ю</string>
+    <string name="swi">Уведомления  правильности слов</string>
+    <string name="prav1">
+        Венгерский кроссворд (другое название филворд) имеет поле без черных клеток и нумерации. Все поле заполнено буквами. Каждая буква может входить в состав только одного слова. Слова в этом кроссворде не пересекаются и не образуют «крестов» – это одно из основных отличий филворда от классического кроссворда.\n
+        Слова в филворде могут изгибаться, но только под прямым углом (по диагонали слова не располагаются), с другими словами не могут иметь общих букв. Слова должны только соприкасаться друг с другом.\n
+    </string>
+    <string name="prav2">
+        В нашем филворде вам может попасться очень редкое поле с недостающей буквой.\n
+         На фоне филворда вы можете видеть достопримечательности мира.\n
+         Касаться экрана двумя пальцами запрещено.\n
+         Для победы необходимо найти все слова - свободных букв не должно остаться.\n
+         Удачи!
+    </string>
+    <string name="prav3">
+        Для разминки попробуйте найти одно слово в квадрате 4*4, или сразу начните играть)
+        </string>
+    <string name="l25">Ч</string>
+    <string name="l28">Ъ</string>
+    <string name="l29">Ы</string>
+    <string name="l33">Я</string>
+    <string name="l5">Д</string>
+    <string name="more">Подробнее</string>
+    <string name="colfon">Разблокировано фонов: </string>
+    <string name="pob">Побед: </string>
+    <string name="e">Эпичных слов: </string>
+    <string name="col">Проведено игр: </string>
+    <string name="colsl">Найдено слов:  </string>
+    <string name="stat">Статистика  </string>
+    <string name="tsh"> Спокойная  </string>
+    <string name="vib"> Выбрано:  </string>
+    <string name="nomuz"> Без музыки  </string>
+    <string name="selmu"> Выберите музыку  </string>
+    <string name="loud"> Быстрая  </string>
+    <string name="fstat"> Сбросить статистику  </string>
+    <string name="worcol"> Коллекция слов  </string>
+    <string name="worred"> Редкие слова:  </string>
+    <string name="tryto"> Попробуйте найти слово </string>
+    <string name="ep"> Эпичные слова: </string>
+    <string name="res"> Редких слов: </string>
+    <string name="nee"> Неверно! </string>
+    <string name="ye"> Правильно! </string>
+    <string name="omeep">Поздравляем, вы нашли эпичное слово! </string>
+    <string name="omered">Поздравляем, вы нашли эредкое слово! </string>
+    <string name="dei"> Действительно </string>
+    <string name="yv"> Уважаемый, увы, вы проиграли </string>
+    <string name="sogl"> ОК, полностью согласен </string>
+    <string name="vipo">Вы выиграли! </string>
+    <string name="omede"> Поздравляем！ </string>
+    <string name="exi">Выход </string>
+    <string name="napom">Напоминание </string>
+    <string name="nepa">В игре нельзя пользоваться двумя пальцами！ </string>
+    <string name="oki">Хорошо </string>
+    <string name="vseve">Всё верно! </string>
+    <string name="vipon">Вы поняли, как играть! </string>
+    <string name="bgame">Играть на большом поле！ </string>
+    <string name="theend">Слова снизу-вверх/справа-налево </string>
+    <string name="eps"> / 14 </string>
+    <string name="reds"> / 29 </string>
+    <string name="ocols"> / 465 </string>
+
+</resources>

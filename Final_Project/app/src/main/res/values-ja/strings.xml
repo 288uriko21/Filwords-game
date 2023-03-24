@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Feelwords</string>
+    <string name="l3">ん</string>
+    <string name="prav1">ガリーのワード(別名feelwords)はフィールドがない黒色の列番号を. フィールド全体が文字で埋められます。 各文字は、一つの単語の一部にすることができます。 このクロスワードの言葉は交差せず、\"十字架\"を形成しません–これは古典的なクロスワードとフィールドの主な違いの一つです。
+  Filword内の単語は、曲げることができますが、唯一の直角（単語が斜めに配置されていない）、彼らは他の言葉と共通の文字を持つことができません。 言葉はお互いに触れるだけです。</string>
+    <string name="prav2">
+        私たちのfeelwordsでは、行方不明の手紙で非常にまれなフィールドを得るかもしれません。\n
+フィールドの背景には、世界の名所を見ることができます。\n
+それは禁止されてタッチ画面で二本の指。\n
+勝つためには、すべての単語を見つける必要があります。\n
+幸運を！
+    </string>
+    <string name="prav3">" ウォームアップするには、4*4正方形で一つの単語を見つけるか、すぐに再生を開始してみてください \n        そして、あなたに幸運、はい、あなたを参照してください！"</string>
+    <string name="l1">の</string>
+    <string name="l10">て</string>
+    <string name="l11">だ</string>
+    <string name="l12">い</string>
+    <string name="l13">そ</string>
+    <string name="l14">ま</string>
+    <string name="l15">ッ</string>
+    <string name="l16">れ</string>
+    <string name="l17">さ</string>
+    <string name="l18">つ</string>
+    <string name="l19">に</string>
+    <string name="l2">ア</string>
+    <string name="l20">ム</string>
+    <string name="l21">ウ</string>
+    <string name="l22">を</string>
+    <string name="f">F</string>
+    <string name="i">E</string>
+    <string name="l">E</string>
+    <string name="w">L</string>
+    <string name="o">W</string>
+    <string name="r">O</string>
+    <string name="d">R</string>
+    <string name="s">D</string>
+    <string name="l23">あ</string>
+    <string name="l24">な</string>
+    <string name="l25">し</string>
+    <string name="l26">く</string>
+    <string name="l27">も</string>
+    <string name="l28">せ</string>
+    <string name="l29">と</string>
+    <string name="l30">は</string>
+    <string name="l31">り</string>
+    <string name="l32">こ</string>
+    <string name="l33">き</string>
+    <string name="l4">す</string>
+    <string name="l5">や</string>
+    <string name="l6">ら</string>
+    <string name="l7">ほ</string>
+    <string name="l8">わ</string>
+    <string name="l9">え</string>
+    <string name="swi">正しい単語の通知 </string>
+    <string name="more">より詳細な </string>
+    <string name="colfon">ロック解除の背景:  </string>
+    <string name="pob">勝利: </string>
+    <string name="e">叙事詩の言葉：  </string>
+    <string name="col">ゲーム数:  </string>
+    <string name="colsl">見つかった単語:   </string>
+    <string name="stat"> 統計  </string>
+    <string name="tsh"> 静かに  </string>
+    <string name="vib"> 選択済み: </string>
+    <string name="nomuz"> 音楽なし  </string>
+    <string name="selmu"> 音楽を選択する  </string>
+    <string name="loud">すぐに  </string>
+    <string name="fstat"> 統計をリセットするには  </string>
+    <string name="worcol"> 単語のコレクション  </string>
+    <string name="worred">  珍しい言葉: </string>
+    <string name="tryto"> 単語を見つけようとする </string>
+    <string name="ep"> 叙事詩の言葉: </string>
+    <string name="res"> 珍しい言葉: </string>
+    <string name="ye">そうだな! </string>
+    <string name="nee">間違った！ </string>
+    <string name="omeep">間おめでとう、あなたは壮大な言葉を発見しました！ </string>
+    <string name="omered">おめでとう、あなたは珍しい言葉を発見しました！ </string>
+    <string name="dei"> 本当に </string>
+    <string name="yv"> 親愛なる、悲しいかな、あなたは失った </string>
+    <string name="sogl"> OK、私は完全に同意する </string>お
+    <string name="vipo"> 前が勝った! </string>
+    <string name="omede"> おめでとう！ </string>
+    <string name="exi"> 終了 </string>
+    <string name="napom">リマインダ </string>
+    <string name="nepa">ゲームでは二本指は使えない！ </string>
+    <string name="oki">まあ </string>
+    <string name="vseve">そうだよ! </string>
+    <string name="vipon">あなたは遊び方を考え出しました！ </string>
+    <string name="bgame">大きなフィールドでプレイ！ </string>
+    <string name="theend">下から上への単語/右から左へ </string>
+    <string name="eps"> / 2 </string>
+    <string name="reds"> / 2 </string>
+    <string name="ocols"> / 38 </string>
+
+</resources>
